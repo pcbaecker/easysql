@@ -1,4 +1,4 @@
-package database
+package easysql
 
 const STRUCT_TAG_AUTOINCREMENT = "db_autoincrement"
 const STRUCT_TAG_FIELDNAME = "db_fieldname"

@@ -1,4 +1,4 @@
-package database
+package easysql
 
 import (
 	"database/sql"
